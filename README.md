@@ -19,10 +19,10 @@ Bacharel em Sistemas de Informação pelo Centro Universitário Toledo de Presid
 
 ### GitHub Stats
 
+## Perfil Novo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvaadrian&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silvaadrian&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=silvaadrian&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/silvaadrian/dio-lab-open-source)
-[![Repo DIO Git e GitHub](https://github-readme-stats.vercel.app/api/pin/?username=silvaadrian&repo=dio-resumos-git-e-github&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/silvaadrian/dio-resumos-git-e-github)
+## Perfil Principal 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianrsilva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adrianrsilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
