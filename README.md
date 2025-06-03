@@ -15,7 +15,7 @@ Bacharel em Sistemas de Informação pelo Centro Universitário Toledo de Presid
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white))](https://www.php.net/docs.php)
+[![Php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/docs.php)
 
 ### GitHub Stats
 
