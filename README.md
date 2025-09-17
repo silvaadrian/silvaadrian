@@ -1,7 +1,7 @@
 # Olá, eu sou o Adrian! 👋
 
 ## 🚀 Sobre mim
-Sou um Analista de Sistemas e Desenvolvedor Júnior formado em Sistemas de Informação. Atualmente, meu foco principal é o desenvolvimento com PHP e o framework Adianti, mas acredito firmemente na versatilidade e na busca constante por novos conhecimentos.
+Sou um Analista de Sistemas Júnior formado em Sistemas de Informação. Atualmente, meu foco principal é o desenvolvimento com PHP e o framework Adianti, mas acredito firmemente na versatilidade e na busca constante por novos conhecimentos.
 
 Dedico-me a aprender sobre diversas tecnologias para expandir minha visão e encontrar soluções inovadoras. Além disso, considero a lógica de programação a base de tudo, e busco aprimorá-la continuamente, independentemente da stack.
 
