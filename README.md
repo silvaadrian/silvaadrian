@@ -1,6 +1,4 @@
-# Adrian Ricardo da Silva
-
-Bacharel em Sistemas de Informação pelo Centro Universitário Toledo de Presidente Prudente e atuando como Analista de Sistemas Jr pela Alimentos Wilson, 23 anos.
+Bacharel em Sistemas de Informação pelo Centro Universitário Toledo de Presidente Prudente e atuando como Analista de Sistemas pela Alimentos Wilson.
 
 ### Conecte-se comigo
 
